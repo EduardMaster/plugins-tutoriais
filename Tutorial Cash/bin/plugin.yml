@@ -1,0 +1,10 @@
+name: EduardCash
+description: Tutorial de Plugin de Cash
+authors: [Eduard]
+author: Eduard
+version: 1.0
+main: net.eduard.cash.Cash
+website: https://www.youtube.com/user/EduTutoriaisHD
+commands:
+  cash:
+    description: All Commands.

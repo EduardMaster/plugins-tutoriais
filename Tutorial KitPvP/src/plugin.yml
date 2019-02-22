@@ -1,0 +1,14 @@
+name: EduardPvP
+description: Tutorial de Plugin de KitPvP
+main: net.eduard.kitpvp.Main
+version: 1.0
+authors: [Eduard,KyzeYT]
+author: Eduard
+website: https://www.youtube.com/user/EduTutoriaisHD
+commands:
+  comando:
+    aliases: [dg]
+    permission: perm.use
+    permission-message: No Permission
+    usage: /<command> [usage]
+    description: Comando Description

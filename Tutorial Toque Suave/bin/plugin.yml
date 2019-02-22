@@ -1,0 +1,14 @@
+name: EduardToqueSuave
+description: Plugin da picareta toque suave 2
+main: net.eduard.toquesuave.Main
+version: 1.0
+authors: [Eduard]
+author: Eduard
+depend: [EduardAPI]
+website: https://www.youtube.com/user/EduTutoriaisHD
+commands:
+  toquesuave:
+    aliases: [givetoquesuave]
+    permission: toquesuave.usar
+    usage: /<command> [player]
+    description: Dar pircareta toque suave

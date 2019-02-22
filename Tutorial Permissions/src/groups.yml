@@ -1,0 +1,14 @@
+normal:
+  permissions:
+  - 'player.default.permission'
+  prefix: ''
+  suffix: ''
+  groups:
+  - ''
+admin:
+  permissions:
+  - '*'
+  prefix: ''
+  suffix: ''
+  groups:
+  - 'normal'

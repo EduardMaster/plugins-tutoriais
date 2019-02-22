@@ -1,0 +1,3 @@
+messages:
+  join: '&6Voce entrou na partida $stats'
+stats: '&8(&e$amount&8/&e$max&8)&r'

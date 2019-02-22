@@ -1,0 +1,13 @@
+name: EduardSkyWars
+description: Tutorial Plugin SkyWars
+version: 1.0
+main: net.eduard.skywars.Main
+authors: [Eduard]
+author: Eduard
+website: https://www.youtube.com/user/EduTutoriaisHD
+commands:
+  skywars:
+    description: Comando principal do plugin de skywars
+    usage: /<command> help
+    aliases: [sky,sw]
+    

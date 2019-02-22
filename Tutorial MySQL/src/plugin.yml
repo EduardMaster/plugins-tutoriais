@@ -1,0 +1,7 @@
+name: EduardCashSql
+description: Tutorial de Plugin de cash do mysql
+main: net.eduard.cashsql.Main
+version: 1.0
+authors: [Eduard]
+author: Eduard
+website: https://www.youtube.com/user/EduTutoriaisHD

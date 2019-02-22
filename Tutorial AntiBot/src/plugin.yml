@@ -1,0 +1,8 @@
+name: EduardAntBot
+description: Tutorial Sistema Ant Login (Nao foi testado)
+main: net.eduard.antbot.Main
+version: 1.0
+authors: [Eduard]
+author: Eduard
+depend: [EduardAPI]
+website: https://www.youtube.com/user/EduTutoriaisHD

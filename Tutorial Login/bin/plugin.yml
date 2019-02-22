@@ -1,0 +1,19 @@
+name: EduardLogin
+version: 1.0.0
+description: Tutorial de Plugin de login basico
+main: net.eduard.tutorial.login.Login
+commands:
+  login:
+    aliases: [logar,entrar]
+    usage: /<command> <senha>
+    description: Logar na sua conta
+    permission: login.use
+  registrar:
+    aliases: [register]
+    usage: /<command> <senha> <confimasenha>
+    description: Registrar sua conta
+    permission: registro.use
+  trocarsenha:
+    usage: /<command> <senha>
+    description: Trocar senha da conta
+    permission: mudarsenha.use

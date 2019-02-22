@@ -1,0 +1,11 @@
+name: EduardAdmin
+description: Tutorial de plugin de /admin
+main: net.eduard.admin.Main
+version: 1.0
+authors: [Eduard]
+website: https://www.youtube.com/user/EduTutoriaisHD
+commands:
+  admin:
+    aliases: [adm]
+    usage: /<command> [usage]
+    description: Entrar ou sair do modo admin

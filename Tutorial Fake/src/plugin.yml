@@ -1,0 +1,11 @@
+name: EduardFake
+description: Tutorial de Sistema de Alterar o Nome temporariamente
+main: net.eduard.simplefake.Main
+version: 1.0
+authors: [Eduard]
+website: https://www.youtube.com/user/EduTutoriaisHD
+depend: [EduardAPI]
+commands:
+  fake:
+    usage: /<command> <name>
+    description: Trocar de Nome Fingir ser outro Jogador

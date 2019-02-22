@@ -1,0 +1,12 @@
+name: EduardGroupPermissions
+description: Tutorial de Plugin de Permissao
+main: net.eduard.permission.Main
+version: 1.0
+authors: [Eduard]
+author: Eduard
+website: https://www.youtube.com/user/EduTutoriaisHD
+commands:
+  groupmaster:
+    aliases: [mg,group,user]
+    usage: /<command> help
+    description: Comando Principal do Plugin

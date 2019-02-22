@@ -1,0 +1,8 @@
+name: EduardLogin
+description: Tutorial de Plugin de Login pra bungeeecord
+version: 1.0
+authors: [Eduard]
+author: Eduard
+website: https://www.youtube.com/user/EduTutoriaisHD
+
+main: net.eduard.login.Main

@@ -1,0 +1,10 @@
+uuid:
+  permissions:
+  - 'player.teste.permission'
+  - '-player.teste'
+  name: 'Name'
+  nick: 'NickName'
+  prefix: ''
+  suffix: ''
+  groups:
+  - 'admin'
